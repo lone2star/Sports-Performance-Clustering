@@ -10,7 +10,7 @@ A Python tool that automates the analysis of cricket delivery data using Unsuper
 
 ## Project Structure
 * `Talent_Analyzer.ipynb`: Main notebook containing the class logic and execution steps.
-* `deliveries.csv`: Raw dataset (260,000+ rows).
+* `deliveries_2008-2024.csv`: Raw dataset (260,000+ rows).
 * `sde_project_result.png`: Output visualization.
 
 ## Implementation Details
